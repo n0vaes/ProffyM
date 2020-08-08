@@ -45,5 +45,5 @@ yarn start
 <hr />
 
 <div align="center">
-<img src="hhttps://media.giphy.com/media/YnHYtVGxxaBe81IiOx/giphy.gif" alt="Filtro" height="425">
+<img src="https://media.giphy.com/media/YnHYtVGxxaBe81IiOx/giphy.gif" alt="Filtro" height="425">
 </div>
