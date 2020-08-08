@@ -5,7 +5,7 @@ Proffy's Mobile application
 
 <hr />
 
-> Study project to learn React/Typescript
+> Study project to learn React Native/Typescript
 
 
 ## About Proffy
